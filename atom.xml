@@ -2,11 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://realooooo.github.io</id>
     <title>XX</title>
-    <updated>2020-03-06T10:47:38.809Z</updated>
+    <updated>2020-03-06T10:49:03.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://realooooo.github.io"/>
     <link rel="self" href="https://realooooo.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
     <logo>https://realooooo.github.io/images/avatar.png</logo>
     <icon>https://realooooo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, XX</rights>
